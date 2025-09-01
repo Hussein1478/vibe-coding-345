@@ -113,12 +113,11 @@ Navigate to: [http://localhost:5000](http://localhost:5000)
 
 For any inquiries, feel free to reach out:
 
-* Developer: **Your Name**
-* Email: **[your.email@example.com](mailto:your.email@example.com)**
+* Developer: Roba
+* Email: husseinroba379@gmail.com
 
 ---
 
 ```
 
-Do you want me to also create a **requirements.txt** with the exact libraries needed so you can run `pip install -r requirements.txt` immediately?
 ```
